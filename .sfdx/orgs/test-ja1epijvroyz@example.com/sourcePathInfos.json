@@ -1,0 +1,1043 @@
+[
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1541006992938,
+            "changeTime": 1541006992938,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1541006992938,
+            "changeTime": 1541006992938,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1541007471778,
+            "changeTime": 1541007471778,
+            "contentHash": "5cfc06f1eed39d1d00a0c8d64a88872170b35fc6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1541007471775,
+            "changeTime": 1541007471775,
+            "contentHash": "0b7c301b217a513694d4b52512bee616584c98fc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/applications/Stakeholder_Database.app-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/applications/Stakeholder_Database.app-meta.xml",
+            "isDirectory": false,
+            "size": 1491,
+            "modifiedTime": 1541007471775,
+            "changeTime": 1541007471775,
+            "contentHash": "a1ab7cd4a0f83703a0c4e1d4cd9f8f9a89c09705",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1541006992938,
+            "changeTime": 1541006992938,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/contentassets",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/contentassets",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1541007471780,
+            "changeTime": 1541007471780,
+            "contentHash": "0f3d94c3ea47c0a69a4b411459234fc379e00395",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/contentassets/UDOT_Logo_High_RGB.asset",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/contentassets/UDOT_Logo_High_RGB.asset",
+            "isDirectory": false,
+            "size": 404383,
+            "modifiedTime": 1541007471781,
+            "changeTime": 1541007471781,
+            "contentHash": "8366cb3ae2fac330c52faf196887ce52e196ecb3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/contentassets/UDOT_Logo_High_RGB.asset-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/contentassets/UDOT_Logo_High_RGB.asset-meta.xml",
+            "isDirectory": false,
+            "size": 549,
+            "modifiedTime": 1541007471778,
+            "changeTime": 1541007471778,
+            "contentHash": "21d2ab336f0daccc06e232980afd7d45a646f208",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1541007471762,
+            "changeTime": 1541007471762,
+            "contentHash": "da8988806372e4220b20a731ccf62705545352a8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/flexipages/Stakeholder_Database_UtilityBar.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/flexipages/Stakeholder_Database_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 3827,
+            "modifiedTime": 1541007471762,
+            "changeTime": 1541007471762,
+            "contentHash": "4c704330cc53058a2fde5751965151df8d48417d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1541007471755,
+            "changeTime": 1541007471755,
+            "contentHash": "a29d096b3a5ba27134c7a85e6c6d8116dfb96a41",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/layouts/PI_Assignment__c-PI Assignment Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/layouts/PI_Assignment__c-PI Assignment Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3079,
+            "modifiedTime": 1541007471756,
+            "changeTime": 1541007471756,
+            "contentHash": "fc545809614e71287fcd8214f80e51362db26a6e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/layouts/PI_Project__c-PI Project Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/layouts/PI_Project__c-PI Project Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 4102,
+            "modifiedTime": 1541007471745,
+            "changeTime": 1541007471745,
+            "contentHash": "6507e63f5d7f64292bbcf01244d5083c185e7af6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/layouts/Project__c-Project Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/layouts/Project__c-Project Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 5179,
+            "modifiedTime": 1541007471739,
+            "changeTime": 1541007471739,
+            "contentHash": "ffe499d43e0feb98998c8309ae51cac56ffe137d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/layouts/Stakeholder_group__c-Stakeholder Group Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/layouts/Stakeholder_group__c-Stakeholder Group Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3076,
+            "modifiedTime": 1541007471748,
+            "changeTime": 1541007471748,
+            "contentHash": "f25353338e338dbdf5af2cd29eed95ac676cec4b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1541008230112,
+            "changeTime": 1541008230112,
+            "isWorkspace": false,
+            "contentHash": "905f0058e30d075720c0a2a68f10b14604d3db88"
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Assignment__c",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Assignment__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1541007471647,
+            "changeTime": 1541007471647,
+            "contentHash": "675cf90c07982b77dafe435c0bd16a541ff7d0e7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Assignment__c/PI_Assignment__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Assignment__c/PI_Assignment__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2132,
+            "modifiedTime": 1541007471645,
+            "changeTime": 1541007471645,
+            "contentHash": "4658e251a7e0f3b282273c49c2fb87fc2e732352",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Assignment__c/fields",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Assignment__c/fields",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1541007471647,
+            "changeTime": 1541007471647,
+            "contentHash": "3534dd7d4a4726586d7debfd198f2ce04f98caf0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Assignment__c/fields/Consultant__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Assignment__c/fields/Consultant__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 557,
+            "modifiedTime": 1541007471646,
+            "changeTime": 1541007471646,
+            "contentHash": "bee8e8846b3a6294a29e9cba296b9dd7a5898f37",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Assignment__c/fields/Lead_Consultant__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Assignment__c/fields/Lead_Consultant__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 375,
+            "modifiedTime": 1541007471646,
+            "changeTime": 1541007471646,
+            "contentHash": "c93e7be746cc25223c215f68f3a48a579e5fc130",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Assignment__c/fields/PI_Project__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Assignment__c/fields/PI_Project__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 563,
+            "modifiedTime": 1541007471647,
+            "changeTime": 1541007471647,
+            "contentHash": "68e645511ec66cb1340f3a299e51bb5e3a9a3545",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Assignment__c/listViews",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Assignment__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1541007471648,
+            "changeTime": 1541007471648,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Assignment__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Assignment__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1541007471648,
+            "changeTime": 1541007471648,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Project__c",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Project__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1541007471500,
+            "changeTime": 1541007471500,
+            "contentHash": "4ad1d1006be82fddf6992644117e4cb7bf874392",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Project__c/PI_Project__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Project__c/PI_Project__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2122,
+            "modifiedTime": 1541007471495,
+            "changeTime": 1541007471495,
+            "contentHash": "b93fe22a80404574cbe1f663f09b9de57fcc777d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Project__c/fields",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Project__c/fields",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1541007471498,
+            "changeTime": 1541007471498,
+            "contentHash": "e3ed8dac3b05b2ce2cb40c1d7ffef71e6edff3d5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Project__c/fields/General_Summary__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Project__c/fields/General_Summary__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 395,
+            "modifiedTime": 1541007471497,
+            "changeTime": 1541007471497,
+            "contentHash": "47b27c6f552b9859d2d1600a8213b2ac7b06e2eb",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Project__c/fields/Project__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Project__c/fields/Project__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 548,
+            "modifiedTime": 1541007471498,
+            "changeTime": 1541007471498,
+            "contentHash": "37874c194eedf5bd58e76035ec16330b982beff1",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Project__c/listViews",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Project__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1541007471500,
+            "changeTime": 1541007471500,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Project__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/PI_Project__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1541007471501,
+            "changeTime": 1541007471501,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1541007471577,
+            "changeTime": 1541007471577,
+            "contentHash": "23c43b6609aefcbeacb5da830e0a86d7b89b14c2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/Project__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/Project__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2111,
+            "modifiedTime": 1541007471557,
+            "changeTime": 1541007471557,
+            "contentHash": "dd3893975391eae4b9053fda3fccebfcba27e834",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields",
+            "isDirectory": true,
+            "size": 544,
+            "modifiedTime": 1541007471576,
+            "changeTime": 1541007471576,
+            "contentHash": "82d21f8ca58f0967910ee5c6b6c3af0dea360db1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Actual_Advertised_Date__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Actual_Advertised_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 377,
+            "modifiedTime": 1541007471558,
+            "changeTime": 1541007471558,
+            "contentHash": "23646aa94b96fc3cca5e237899a1e4aa5de204d9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Actual_Construction_Start_Date__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Actual_Construction_Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1541007471559,
+            "changeTime": 1541007471559,
+            "contentHash": "67354518fbdcda83efa88cf09a155b769275a9b3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Contact_Email__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Contact_Email__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 387,
+            "modifiedTime": 1541007471560,
+            "changeTime": 1541007471560,
+            "contentHash": "846e796a620b0904f5b31e5cd03ae01f9eded162",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Contact_Phone__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Contact_Phone__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 411,
+            "modifiedTime": 1541007471561,
+            "changeTime": 1541007471561,
+            "contentHash": "d68e3b05326a35bb0ff652f48d6044ca20a05810",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Contact_Title__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Contact_Title__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 411,
+            "modifiedTime": 1541007471561,
+            "changeTime": 1541007471561,
+            "contentHash": "7c033233d2fb3de0f0ad0b217f556ac4b82f7287",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Contracted_Construction_End_Date__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Contracted_Construction_End_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1541007471562,
+            "changeTime": 1541007471562,
+            "contentHash": "f222f43ffc12ea740b8056c32d5bbbdaedff6e53",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/County__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/County__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 396,
+            "modifiedTime": 1541007471563,
+            "changeTime": 1541007471563,
+            "contentHash": "f9b379aca01b2f3fc14753298b439eac93608970",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Description__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Description__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 359,
+            "modifiedTime": 1541007471566,
+            "changeTime": 1541007471566,
+            "contentHash": "fe3ce061dcc7f42c21cf20db9c7f71aca5bc6861",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Expenditures__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Expenditures__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 412,
+            "modifiedTime": 1541007471569,
+            "changeTime": 1541007471569,
+            "contentHash": "92321904207ea1e8a2daa27cdfab90300e1dcc94",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/PIN__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/PIN__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 416,
+            "modifiedTime": 1541007471570,
+            "changeTime": 1541007471570,
+            "contentHash": "c74ed58d9154594e4fe99e85b4d4e43eae357ee8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Project_Name__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Project_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 409,
+            "modifiedTime": 1541007471572,
+            "changeTime": 1541007471572,
+            "contentHash": "3ab72847b8115e5a02ebb642d0031f37831eadea",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Project_Value__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Project_Value__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 414,
+            "modifiedTime": 1541007471573,
+            "changeTime": 1541007471573,
+            "contentHash": "8f598f4815dd833f58fafee2073f894220f86f90",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Region__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Region__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1184,
+            "modifiedTime": 1541007471574,
+            "changeTime": 1541007471574,
+            "contentHash": "e1a979e555ea401715b5ee66dab9de6bf3e40305",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Route__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Route__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 347,
+            "modifiedTime": 1541007471574,
+            "changeTime": 1541007471574,
+            "contentHash": "9a08f230d6bfbb01911c7aa92a82203afbdbe4fe",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Status__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/fields/Status__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 2082,
+            "modifiedTime": 1541007471576,
+            "changeTime": 1541007471576,
+            "contentHash": "5cf1511d67605e670f420f4376c115a249ea7869",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/listViews",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1541007471577,
+            "changeTime": 1541007471577,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Project__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1541007471578,
+            "changeTime": 1541007471578,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Stakeholder_group__c",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Stakeholder_group__c",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1541007471689,
+            "changeTime": 1541007471689,
+            "contentHash": "0aad2651cfee3ca340925bb3b282e769d2ac584a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Stakeholder_group__c/Stakeholder_group__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Stakeholder_group__c/Stakeholder_group__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2143,
+            "modifiedTime": 1541007471672,
+            "changeTime": 1541007471672,
+            "contentHash": "cb35fcf6b37dbe51766fc9ffefaaf47265f70b7f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Stakeholder_group__c/fields",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Stakeholder_group__c/fields",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1541007471686,
+            "changeTime": 1541007471686,
+            "contentHash": "700d38a18759fdc56c2c33505139014dc1546b87",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Stakeholder_group__c/fields/Notes__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Stakeholder_group__c/fields/Notes__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 347,
+            "modifiedTime": 1541007471673,
+            "changeTime": 1541007471673,
+            "contentHash": "5807ddc215983a040176db73f5954782b7e9e34d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Stakeholder_group__c/fields/PI_Project__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Stakeholder_group__c/fields/PI_Project__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 571,
+            "modifiedTime": 1541007471686,
+            "changeTime": 1541007471686,
+            "contentHash": "aa4640982de3c812a184ffb003ea4a5d8e6eeb43",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Stakeholder_group__c/fields/Stakeholder_Group__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Stakeholder_group__c/fields/Stakeholder_Group__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 579,
+            "modifiedTime": 1541007471687,
+            "changeTime": 1541007471687,
+            "contentHash": "ca2fca619d5b30b8046b96ba3a5b42c9fcb9f405",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Stakeholder_group__c/listViews",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Stakeholder_group__c/listViews",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1541007471690,
+            "changeTime": 1541007471690,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Stakeholder_group__c/listViews/All.listView-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Stakeholder_group__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1541007471690,
+            "changeTime": 1541007471690,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1541007471771,
+            "changeTime": 1541007471771,
+            "contentHash": "ae3dd5f668169e819d114379d3191671af6bba08",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/tabs/PI_Assignment__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/tabs/PI_Assignment__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1541007471769,
+            "changeTime": 1541007471769,
+            "contentHash": "2f845105a14362a63be98dae80367523cf13581c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/tabs/PI_Project__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/tabs/PI_Project__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1541007471766,
+            "changeTime": 1541007471766,
+            "contentHash": "fc876039b38c08618da83097bcc770c2f8cc0346",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/tabs/Project__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/tabs/Project__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 229,
+            "modifiedTime": 1541007471771,
+            "changeTime": 1541007471771,
+            "contentHash": "9ff1a260e3ae7df8d22186bf3afdb41420f59c9e",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/tabs/Stakeholder_group__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/tabs/Stakeholder_group__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 225,
+            "modifiedTime": 1541007471764,
+            "changeTime": 1541007471764,
+            "contentHash": "5abb71f306e41461e78462c6165be561dbec4bd8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2",
+        {
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1541008024413,
+            "changeTime": 1541007367125,
+            "contentHash": "79d7a585ec73d72b6c4234de6b0e1278531a256f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Case",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Case",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1541008230112,
+            "changeTime": 1541008230112,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Case/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Case/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1541008230113,
+            "changeTime": 1541008230113,
+            "contentHash": "3032abc3d63c6261d51dabf3f1910116f10848ec"
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Case/fields/PI_Project__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Case/fields/PI_Project__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 592,
+            "modifiedTime": 1541008230112,
+            "changeTime": 1541008230112,
+            "contentHash": "93d76c0dc637cea383e2e5fc9f7bc22f6c8fdba1"
+        }
+    ],
+    [
+        "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Case/fields/Project__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/bwise/Documents/localProjects/test_unmanaged2/force-app/main/default/objects/Case/fields/Project__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 583,
+            "modifiedTime": 1541008230113,
+            "changeTime": 1541008230113,
+            "contentHash": "81b16f9ac5c3064006d28335b290a119d4bc16df"
+        }
+    ]
+]
